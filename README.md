@@ -42,6 +42,8 @@ This gives students real experience and businesses usable solutions.
 ## Current Status
 Functional demo prototype built during buildathon.
 Focused on validating the core experience loop.
+### Demo Flow
+![DevProof Flow](demo/flow.png)
 
 ---
 
