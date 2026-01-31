@@ -42,10 +42,27 @@ This gives students real experience and businesses usable solutions.
 ## Current Status
 Functional demo prototype built during buildathon.
 Focused on validating the core experience loop.
-### Demo Flow
-![DevProof Flow](demo/flow.png)
 
 ---
 
 ## Links
 - Live Demo Website: https://devproof-skill-forge.lovable.app
+Proof of Work Certificate
+
+## This certifies that
+
+[Student Name]
+
+has successfully solved a real-world problem for
+
+[Business Name]
+
+as part of the DevProof validation process.
+
+Business Review: ⭐⭐⭐⭐☆ (4/5)
+Feedback: "Delivered a working solution on time."
+
+Reviewed and approved by
+Project Owner / Business Representative
+
+(Buildathon Demo)
